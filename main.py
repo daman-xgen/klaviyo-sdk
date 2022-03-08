@@ -1,7 +1,4 @@
-from klaviyo.services import \
-    create_list, \
-    add_member_to_list, \
-    get_segment_or_list_member, \
+from xgen_klaviyo_sdk.services import \
     get_list_info
 
 if __name__ == '__main__':
